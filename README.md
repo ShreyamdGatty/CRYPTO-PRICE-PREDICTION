@@ -1,2 +1,14 @@
-# CRYPTO-PRICE-PREDICTION
-Crypto Price Analysis using Python, Streamlit, and Machine Learning
+## Screenshots
+
+### Dashboard
+![bitcoin](bitcoin.png)
+
+### Dashboard
+![ethereum](ethereum.png)
+
+### Dashboard
+![dogecoin](dogecoin.png)
+
+### Price Trend Chart
+![price Trend](price Trend.png)
+
