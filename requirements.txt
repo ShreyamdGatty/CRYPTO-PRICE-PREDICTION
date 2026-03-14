@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+requests
+prophet
+scikit-learn
+tensorflow
+textblob
