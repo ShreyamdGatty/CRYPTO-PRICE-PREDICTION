@@ -10,5 +10,5 @@
 ![dogecoin](dogecoin.png)
 
 ### Price Trend Chart
-![price Trend](price Trend.png)
+![priceTrend](priceTrend.png)
 
